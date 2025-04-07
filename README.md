@@ -33,8 +33,8 @@ Deployed live using **Render**.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/lipivirmani/my-blog-site.git
-cd your-repo-name
+git clone https://github.com/lipivirmani/My-Blog-Site.git
+cd My-Blog-Site
 ```
 
 2. Install dependencies:
